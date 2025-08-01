@@ -1,0 +1,6 @@
+# Ignore secrets and unnecessary files
+creds/
+__pycache__/
+*.pyc
+*.log
+.env
